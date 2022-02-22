@@ -1,1 +1,2 @@
 # odin-recipes
+This is a webpage for some recipes. This project will make use of the creation of a simple web page utilizing html elements, the boiler plate, headlines, paragraphs, images and links. These basics components will merge together to create a simple recipe webpage.
